@@ -1,3 +1,13 @@
+###################################
+Riv: reStructuredText in Vim (Fork)
+###################################
+
+This fork merely removes the ``Tab`` and ``S-Tab`` mappings in normal mode
+because I already use those keys for something else.
+
+Rykka's original README follows.
+
+
 ############################
 Riv: reStructuredText in Vim
 ############################
